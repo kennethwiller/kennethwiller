@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Cursando Bacharelado em Engeharia de Software.<br>Técnico em Redes de Computadores.<br>Estudando Linguagem C, JavaScript, HTML e CSS.</p>
+<p align="left">Bacharel em Engeharia de Software.<br>Técnico em Redes de Computadores.<br>Linguagem C, JavaScript, Java.</p>
 
 ###
 

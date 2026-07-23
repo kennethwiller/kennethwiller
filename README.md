@@ -1,39 +1,52 @@
-<h2 align="left">Olá! Eu sou Kenneth Willer</h2>
+# Olá, eu sou o [Kenneth Willer] 👋
 
-###
+📍 Localização: [Pernambuco] | 💼 Aberto a novas oportunidades e freelas
 
-<p align="left">Bacharel em Engeharia de Software.<br>Técnico em Redes de Computadores.<br>Linguagem C, JavaScript, Java.</p>
+---
 
-###
+### 🚀 Sobre Mim
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&username=kennethwiller" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=kennethwiller" height="150" alt="languages graph"  />
-</div>
+Sou um desenvolvedor focado em criar interfaces modernas, rápidas e acessíveis. Gosto de resolver problemas com código limpo e design focado na experiência do usuário.
 
-###
+- 🌱 Estou sempre estudando e aprimorando conhecimentos
+- 🤝 Disponível para colaborar em **Projetos Open Source**
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/kenneth-willer-097776206/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+---
+
+### 🛠️ Minhas Stacks & Ferramentas
+
+Aqui estão as tecnologias com as quais trabalho diariamente para transformar ideias em código:
+
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![JavaScript](https://shields.io)
+![TypeScript](https://shields.io)
+![React](https://shields.io)
+![NodeJS](https://shields.io)
+
+---
+
+### 📊 Estatísticas de Código
+
+<p align="left">
+  <img src="https://vercel.app" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://vercel.app" alt="Linguagens Mais Usadas" height="150" />
+</p>
+
+---
+
+### 📬 Vamos conversar?
+
+Seja para falar sobre um projeto, tirar dúvidas ou apenas tomar um café virtual, sinta-se à vontade para me mandar uma mensagem!
+
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/kennethwiller/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="mailto:SEU_EMAIL@gmail.com">
+    <img src="https://shields.io" alt="Gmail" />
   </a>
-</div>
-
-###
-
-![Snake animation](https://github.com/kennethwiller/kennethwiller/blob/output/github-contribution-grid-snake.svg)
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
-</div>
-
-###
+  <a href="https://SEU_PORTFOLIO.com" target="_blank">
+    <img src="https://shields.io" alt="Portfólio" />
+  </a>
+</p>
